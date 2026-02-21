@@ -12,6 +12,7 @@ Customer churn directly impacts revenue stability. This project aims to:
 
 **📂 Dataset Information**    
 Source: Kaggle (E-Commerce Customer Behavior Dataset)  
+Link: https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset  
 Records: ~50,000 customers  
 No. of features: 25     
 
